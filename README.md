@@ -5,3 +5,6 @@
 
 ## 2. Password Generator 
 - <a href='/passwordgenerator.py'>Code</a> | [Output](https://replit.com/@thegeekyb0y/passwordgenerator?v=1)
+
+## 3. Instagram Scraping
+- <a href='/passwordgenerator.py'>Code</a> | [Output](https://replit.com/@thegeekyb0y/instascraper?v=1)
