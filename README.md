@@ -12,3 +12,8 @@ Note that: Programs may show their output slowly because the libraries or packag
 
 ## 3. Instagram Scraping
 - <a href='/passwordgenerator.py'>Code</a> | [Output](https://replit.com/@thegeekyb0y/instascraper?v=1)
+
+---
+
+## Python Learning Resources
+[CLick Here](https://github.com/thegeekyb0y/learnpython)
