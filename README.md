@@ -1,5 +1,9 @@
 # Snippets I posted on Instagram
 
+Instagram : [Aditya Tiwari](https://instagram.com/thegeekyb0y)
+
+Note that: Programs may show their output slowly because the libraries or packages need to be installed first. Be patient.
+
 ## 1. Internet Speedtest 
 - <a href='./speedtest.py'>Code</a> | [Output](https://replit.com/@thegeekyb0y/speedtestpy?v=1)
 
