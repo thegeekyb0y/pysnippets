@@ -13,6 +13,10 @@ Note that: Programs may show their output slowly because the libraries or packag
 ## 3. Instagram Scraping
 - <a href='/passwordgenerator.py'>Code</a> | [Output](https://replit.com/@thegeekyb0y/instascraper?v=1)
 
+## 4. PDF to text 
+- <a href='./Pdf-to-text-converter/pdf-to-text-converter.py'>Code</a> | [Output](./Pdf-to-text-converter)
+
+
 ---
 
 ## Python Learning Resources
