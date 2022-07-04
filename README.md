@@ -19,6 +19,9 @@ Note that: Programs may show their output slowly because the libraries or packag
 ## 5. Video to Audio
 - <a href='./video2audio.py'> Code </a>
 
+## 6. Video to GIF
+- <a href='./video2gif.py> Code </>
+
 ---
 
 ## Python Learning Resources
