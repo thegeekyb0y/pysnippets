@@ -19,6 +19,6 @@ def main():
         os.system('ren {0} {1}'. format(location, renametomp3))
     else:
         os.system('mv {0} {1}'. format(location, renametomp3))
-    
+
 if __name__ == '__main__':
     main()
