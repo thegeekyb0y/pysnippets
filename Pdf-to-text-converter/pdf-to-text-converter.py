@@ -5,8 +5,7 @@ import sys
 def File_existance_checker(filePath):
     if path.isfile(filePath):
         return filePath
-    else:
-        print("[-] Provide a valid File")
+    
         sys.exit(1)
 pdf_stored_path=input("Enter the name of you pdf file (please use backslash when typing in directory path):")
 
