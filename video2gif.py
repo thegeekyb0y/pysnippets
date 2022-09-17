@@ -1,6 +1,5 @@
-from moviepy.editor 
+from moviepy.editor import VideoFileClip
 #import moviepy , videofileclip
-import VideoFileClip
 
 #replace "my-life.mp4" with your file name
 videoClip = VideoFileClip("my-life.mp4")
