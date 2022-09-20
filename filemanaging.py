@@ -6,7 +6,7 @@ def  Writerecord(sroll,sname):
     with open ('StudentRecord1.dat','ab') as Myfile:
         srecord={"SROLL":sroll,"SNAME":sname}        
         pickle.dump(srecord,Myfile)
-       
+
 def Readrecord():
     with open ('StudentRecord1.dat','rb') as Myfile:
         print("\n-------DISPALY STUDENTS DETAILS--------")
@@ -24,7 +24,7 @@ def Input():
         sroll=int(input("Enter Roll No: "))
         sname=input("Enter Name: ")
         Writerecord(sroll,sname)
-        
+
 def SearchRecord(roll):
     with open ('StudentRecord1.dat','rb') as Myfile:
        while True:
@@ -40,7 +40,7 @@ def SearchRecord(roll):
                break
 
 def main():
-   
+
     while True:
         print('\nYour Choices are: ')
         print('1.Insert Records')
