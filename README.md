@@ -20,7 +20,7 @@ Note that: Programs may show their output slowly because the libraries or packag
 - <a href='./video2audio.py'> Code </a>
 
 ## 6. Python School Practical 
-- <a href='./filemanaging.py'> Code </a>
+- <a href='./filemanaging.py'> Code </a> | [Output](https://replit.com/@thegeekyb0y/project6#main.py)
 
 ---
 
