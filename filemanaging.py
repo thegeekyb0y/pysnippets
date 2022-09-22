@@ -20,7 +20,7 @@ def Readrecord():
                break
 def Input():
     n=int(input("How many records you want to create :"))
-    for ctr in range(n):
+    for _ in range(n):
         sroll=int(input("Enter Roll No: "))
         sname=input("Enter Name: ")
         Writerecord(sroll,sname)
