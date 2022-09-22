@@ -17,7 +17,7 @@ def Readrecord():
                rec=pickle.load(Myfile)
                print(' ',rec['SROLL'],'\t  ' ,rec['SNAME'])
            except EOFError:
-                break
+               break
 def Input():
     n=int(input("How many records you want to create :"))
     for ctr in range(n):
@@ -35,9 +35,9 @@ def SearchRecord(roll):
                    print("Name:",rec['SNAME'])
 
           except EOFError:
-               print("Record not find..............")
-               print("Try Again..............")
-               break
+              print("Record not find..............")
+              print("Try Again..............")
+              break
 
 def main():
 
