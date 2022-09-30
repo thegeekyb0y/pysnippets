@@ -19,8 +19,11 @@ Note that: Programs may show their output slowly because the libraries or packag
 ## 5. Video to Audio
 - <a href='./video2audio.py'> Code </a>
 
-## 6. Python School Practical 
+## 6. Python PYQ File Management 1
 - <a href='./filemanaging.py'> Code </a> | [Output](https://replit.com/@thegeekyb0y/project6#main.py)
+
+## 7. Python PYQ File Management 2
+- <a href='./filemanaging2.py'> Code </a> 
 
 ---
 
